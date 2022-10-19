@@ -1,0 +1,12 @@
+\beamer@sectionintoc {1}{Path of a Proton at the LHC}{3}{0}{1}
+\beamer@sectionintoc {2}{Last Stage: LHC}{3}{0}{2}
+\beamer@sectionintoc {3}{Interesting Facts}{3}{0}{3}
+\beamer@sectionintoc {4}{Intersecting the Beams}{3}{0}{4}
+\beamer@sectionintoc {5}{Example of Colliding Protons}{3}{0}{5}
+\beamer@sectionintoc {6}{Motivation for FASER}{3}{0}{6}
+\beamer@sectionintoc {7}{FASER}{3}{0}{7}
+\beamer@sectionintoc {8}{FORESEE Motivation}{3}{0}{8}
+\beamer@sectionintoc {9}{Heavy Neutral Leptons (HNLS)}{3}{0}{9}
+\beamer@sectionintoc {10}{All Together Now}{3}{0}{10}
+\beamer@sectionintoc {11}{FORESEE}{3}{0}{11}
+\beamer@sectionintoc {12}{FORESEE Results}{3}{0}{12}
